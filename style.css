@@ -1,0 +1,114 @@
+body{
+    background-color: #FB9AD1;
+    position: relative;
+}
+.line1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.line2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.line3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+.line4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+ul{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.li1{
+    display: none;
+}
+.li2{
+    display: none;
+}
+.li3{
+    display: none;
+}
+.li4{
+    display: none;
+}
+.li5{
+    display: none;
+}
+.li6{
+    display: none;
+}
+.li7{
+    display: none;
+}
+.li8{
+    display: none;
+}
+.li9{
+    display: none;
+}
+.li10{
+    display: none;
+}
+.li11{
+    display: none;
+}
+.li12{
+    display: none;
+}
+.li13{
+    display: none;
+}
+.li14{
+    display: none;
+}
+.li15{
+    display: none;
+}
+.li16{
+    display: none;
+}
+.li17{
+    display: none;
+}
+.li18{
+    display: none;
+}
+.li19{
+    display: none;
+}
+.li20{
+    display: none;
+}
+.li21{
+    display: none;
+}
+.li22{
+    display: none;
+}
+.li23{
+    display: none;
+}
+.heart{
+    background-color: #f7ccac;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+    
+}
